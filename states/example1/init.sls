@@ -1,2 +1,2 @@
 include:
-  - example.cmds
+  - example1.cmds
