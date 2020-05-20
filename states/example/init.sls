@@ -1,2 +1,2 @@
 include:
-  - cmds.sls
+  - example.cmds
